@@ -296,6 +296,9 @@ img{
 /* ===== CONTACT =====*/
 .contact__container{
     row-gap: 2rem;
+    position: relative;
+    left: 17.25%;
+    text-align: center;
 }
 
 .contact__subtitle{

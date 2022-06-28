@@ -85,3 +85,8 @@ function facebook()
 {
     alert ("Ga main Facebook")
 }
+
+function submit()
+{
+    alert("Pesan Anda Terkirim")
+}
